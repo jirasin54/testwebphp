@@ -1,6 +1,6 @@
 <?php
         $servername = "plearnjai.com";
-        $username = "plearnaja_cpsu1";
+        $username = "plearnja_cpsu1";
         $password = "ykvuXxBJ4q";
         $dbname = "plearnja_cpsu1";
        
